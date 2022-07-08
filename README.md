@@ -38,8 +38,14 @@
 
 <br/>  
 
+## Publications
 
-## Recent Blog Posts  
+- Wang C, Yang Y, Slumbers O, et al. A Game-Theoretic Approach for Improving Generalization Ability of TSP Solvers[J]. arXiv preprint arXiv:2110.15105, 2021. (Spotlight Presentation on ICLR 2022 Workshop on Gamification and Multiagent Solutions)
+
+- Wang C, Han C, Guo T, et al. Solving uncapacitated P-Median problem with reinforcement learning assisted by graph attention networks[J]. Applied Intelligence, 2022: 1-16.
+
+
+## Recent Updates
   
 
 <br/>  
