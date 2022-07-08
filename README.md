@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Chenguang Wang, an undergraduate student in University of Chinese Academy of Sciences </div>  
-  
+### <div align="center">I'm Chenguang Wang, an undergraduate student in University of Chinese Academy of Sciences and will purse phd in The Chinese University of Hong Kong, Shenzhen. </div>  
 
-- 🔭 I’m currently an undergraduate student in University of Chinese Academy of Sciences   
-  
 
-- 🌱 I’m currently interested in reinforcement learning, and combinatorial optimization  
+- 🌱 I’m currently interested in reinforcement learning, generative models and combinatorial optimization  
   
 
 - ⚡ My hobbies lie on video games, baseketball, photography, etc...  
@@ -19,6 +16,12 @@
   
 
 <br/>  
+
+## Publications
+
+- Wang C, Yang Y, Slumbers O, et al. A Game-Theoretic Approach for Improving Generalization Ability of TSP Solvers[J]. arXiv preprint arXiv:2110.15105, 2021. (Spotlight Presentation on ICLR 2022 Workshop on Gamification and Multiagent Solutions)
+
+- Wang C, Han C, Guo T, et al. Solving uncapacitated P-Median problem with reinforcement learning assisted by graph attention networks[J]. Applied Intelligence, 2022: 1-16.
 
 
 
@@ -37,12 +40,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chenguang&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-## Publications
-
-- Wang C, Yang Y, Slumbers O, et al. A Game-Theoretic Approach for Improving Generalization Ability of TSP Solvers[J]. arXiv preprint arXiv:2110.15105, 2021. (Spotlight Presentation on ICLR 2022 Workshop on Gamification and Multiagent Solutions)
-
-- Wang C, Han C, Guo T, et al. Solving uncapacitated P-Median problem with reinforcement learning assisted by graph attention networks[J]. Applied Intelligence, 2022: 1-16.
 
 
 ## Recent Updates
