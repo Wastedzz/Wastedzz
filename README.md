@@ -12,7 +12,7 @@
 - ⚡ My hobbies lie on video games, baseketball, photography, etc...  
   
 
-- ❓ Feel free to contact me if you have same interests with me at wangchenguang19@mails.ucas.ac.cn  
+- ❓ Feel free to contact me if you have same interests with me at chenguangwang@link.cuhk.edu.cn  
   
 
 <br/>  
